@@ -1,1 +1,1 @@
-hoge = "ここはfeature one だよ"
+hoge = "ここはfeature two だよ"
